@@ -3,14 +3,18 @@
 <!--
 **sandrorochadev/sandrorochadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Alessandro Rocha, 26 anos, Brasília-DF.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Iniciante na programação;
+-  Estudante com experiência na área administrativa, realizando recente transição de carreira;
+-  Conhecimento em HTML, CSS e Google Ads;
+-  Estudando JavaScript, PHP e MySQL;
+-  Objetivo de trabalhar como desenvolvedor Front-End;
+
+- Site: sandrorochadev.com
+- E-mail: sandrorochatrabalho@gmail.com
+- Instagram: https://www.instagram.com/sandrorochadev/
+- Linkedin: https://www.linkedin.com/in/sandrorochadf/
+- Rocketseat: https://app.rocketseat.com.br/me/sandrorochadf
+- 
 -->
