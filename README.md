@@ -11,7 +11,6 @@ Alessandro Rocha, 26 anos, Brasília-DF.
 -  Estudando JavaScript, PHP e MySQL;
 -  Objetivo de trabalhar como desenvolvedor Front-End;
 
-- Site: sandrorochadev.com
 - E-mail: sandrorochadf@gmail.com
 - Instagram: https://www.instagram.com/sandrorochadev/
 - Linkedin: https://www.linkedin.com/in/sandrorochadf/
