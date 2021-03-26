@@ -1,7 +1,5 @@
 ### Seja bem-vindo!
 
-<!--
-**sandrorochadev/sandrorochadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Alessandro Rocha, 26 anos, Brasília-DF.
 
@@ -13,7 +11,7 @@ Alessandro Rocha, 26 anos, Brasília-DF.
 
 - E-mail: sandrorochadf@gmail.com
 - Instagram: https://www.instagram.com/sandrorochadev/
-- Linkedin: https://www.linkedin.com/in/sandrorochadf/
-- Rocketseat: https://app.rocketseat.com.br/me/sandrorochadf
+- Linkedin: https://www.linkedin.com/in/sandrorochadev/
+- Rocketseat: https://app.rocketseat.com.br/me/sandrorochadev
 - 
 -->
