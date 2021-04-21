@@ -6,7 +6,7 @@ Alessandro Rocha, 26 anos, Brasília-DF.
 -  💻 Iniciante na programação;
 -  👔 Estudante com experiência na área administrativa, realizando recente transição de carreira;
 -  📒 Conhecimento em HTML, CSS e JavaScript;
--  📖 Conhecendo PHP e MySQL;
+-  📖 Estudando React e Next.js;
 -  💼 Foco atual: estagiar no Front-End para obter conhecimento e experiência na área.
 
 - E-mail: sandrorochadev@gmail.com
