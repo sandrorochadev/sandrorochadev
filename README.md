@@ -12,7 +12,7 @@
   
 <p>Contato:</p>
   <a href="https://www.instagram.com/sandrorochadev" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=#10ac84&link=https://www.instagram.com/sandrorochadev/"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/sandrorochadev/"/></a>
   
   <a href="https://www.linkedin.com/in/sandrorochadev" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=#10ac84&link=https://www.linkedin.com/in/sandrorochadev" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandrorochadev"/></a>
