@@ -8,7 +8,7 @@
 *  Habilidades:
 
 * Contato:
-![Badge](https://img.shields.io/badge/Blog-instagram-%#ff9ff3?style=social&logo=instagram)
+(https://img.shields.io/badge/Blog-instagram-%#ff9ff3?style=social&logo=instagram)
 
 [instagram] <https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/sandrorochadev/>
 [linkedin] <https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandrorochadev/>
