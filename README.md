@@ -5,7 +5,9 @@
 
 <p>💻 Front End | Web Developer;<p>
   
-<p>💼 Foco atual: Obter experiência no mercado de trabalho dentro da área de tecnologia;</p>
+<p>🚀 Procuro obter experiência no mercado de trabalho dentro da área de tecnologia;</p>
+
+<p>💼 Portfólio: https://sandrorochadev.github.io/portfolio/
 
 
 <h3>Contato:</h3>
