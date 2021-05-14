@@ -7,13 +7,16 @@
   
 <p>💼 Foco atual: Obter experiência no mercado de trabalho dentro da área de tecnologia;</p>
 
-<p>Habilidades:</p>
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap&logoColor=7952B3)
+<h3>Habilidades:</h3>
+  * HTML;
+  * CSS;
+  * JavaScript;
+  * Bootstrap;
+  * Materialize;
+  * Git;
+  * Github;
   
-<p>Contato:</p>
+<h3>Contato:</h3>
   <a href="https://www.instagram.com/sandrorochadev" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/sandrorochadev/"/></a>
   
