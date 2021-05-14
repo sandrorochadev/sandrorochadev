@@ -7,15 +7,7 @@
   
 <p>💼 Foco atual: Obter experiência no mercado de trabalho dentro da área de tecnologia;</p>
 
-<h3>Habilidades:</h3>
-  * HTML;
-  * CSS;
-  * JavaScript;
-  * Bootstrap;
-  * Materialize;
-  * Git;
-  * Github;
-  
+
 <h3>Contato:</h3>
   <a href="https://www.instagram.com/sandrorochadev" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/sandrorochadev/"/></a>
