@@ -12,9 +12,11 @@ Conhecimento em CSS, HTML e JavaScript. Estudando atualmente sobre EcmaScript, T
 
 
 <h3>Contato:</h3>
+
+  <a href="mailto:sandrorochadev@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-F368E0?style=for-the-badge&logo=gmail&logoColor=00FFFF&link=mailto:sandrorochadev@gmail.com">
   
   <a href="https://www.linkedin.com/in/sandrorochadev" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/sandrorochadev"/></a>
   
-  <a href="mailto:sandrorochadev@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF&link=mailto:sandrorochadev@gmail.com">
+  
