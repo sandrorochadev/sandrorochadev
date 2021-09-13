@@ -12,8 +12,8 @@ Conhecimento em CSS, HTML e JavaScript. Estudando atualmente sobre EcmaScript, T
 
 
 <h3>Contato:</h3>
-  <a href="https://www.instagram.com/sandrorochadev" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=FF1493&link=https://www.instagram.com/sandrorocha.dev"/></a>
+  <a href="https://www.instagram.com/sandrorochadev" alt="E-mail">
+  <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=FF1493&link=mailto:sandrorochadev@gmail.com"/></a>
   
   
   <a href="https://www.linkedin.com/in/sandrorochadev" alt="Linkedin">
