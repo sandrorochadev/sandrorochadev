@@ -1,8 +1,7 @@
 <h3>Olá, seja bem-vindo!</h3
 
 
-<p>Estudante de Análise e Desenvolvimento de Sistemas e Administração, com experiência em desenvolvimento web, atuando como freelancer. Atualmente, trabalho na área administrativa, com prática em análise de processos na área de Educação Superior. 
-Conhecimento em CSS, HTML e JavaScript. Estudando atualmente sobre EcmaScript, TypeScript e React. <b>Principais competências: organização, trabalho em equipe, foco contínuo em aprendizado e espírito empreendedor.</b></p>
+<p>Sou desenvolvedor web com experiência atuando como freelancer. Possuo prática na área de Front-End, em criação de websites utilizando frameworks como Bootstrap, Tailwind CSS e Materialize. Estudo atualmente sobre EcmaScript, TypeScript, Next.Js e aplicação de ferramentas para SEO (search engine optimization, ou otimização para mecanismos de buscas) como Google Ads e Google Analytics. Disponibilizo minha rede para contato, para esclarecimento de dúvidas ou assuntos relacionados a trabalhos e projetos. Fique a vontade para enviar uma mensagem.</b></p>
 
 <p>💻 Front End | Web Developer;<p>
   
@@ -13,8 +12,8 @@ Conhecimento em CSS, HTML e JavaScript. Estudando atualmente sobre EcmaScript, T
 
 <h3>Contato:</h3>
   
-  <a href="https://wa.me/message/L4ML656IM56UH1" alt="whatsapp">
-  <img src="https://img.shields.io/badge/WhatsApp-1C1C1C?style=for-the-badge&logo=whatsapp&logoColor=25D366&link=https://wa.me/message/L4ML656IM56UH1">
+  <a href="https://t.me/sandrorochadev" alt="telegram">
+  <img src="https://img.shields.io/badge/Telegram-1C1C1C?style=for-the-badge&logo=telegram&logoColor=25D366&link=https://wa.me/message/L4ML656IM56UH1">
   
   <a href="https://www.linkedin.com/in/sandrorochadev" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/sandrorochadev"/></a>
