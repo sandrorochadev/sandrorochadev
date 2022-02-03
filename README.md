@@ -1,7 +1,8 @@
 <h3>Olá, seja bem-vindo!</h3
 
 
-<p>Sou desenvolvedor web com experiência atuando como freelancer. Possuo prática na área de front-end, em criação de websites utilizando frameworks como Bootstrap e Tailwind CSS. Estudo atualmente sobre EcmaScript, TypeScript, React e aplicação de ferramentas para SEO (search engine optimization, ou otimização para mecanismos de buscas) como Google Ads e Google Analytics. Disponibilizo minha rede para contato, para esclarecimento de dúvidas ou assuntos relacionados a trabalhos e projetos. Fique a vontade para enviar uma mensagem.</b></p>
+<p>Sou desenvolvedor web front-end com experiência atuando como freelancer, na criação de websites utilizando HTML, CSS, JavaScript e React, além de frameworks como o Bootstrap. Tenho conhecimento sobre EcmaScript, TypeScript, Next e aplicação de ferramentas para SEO (search engine optimization, ou otimização para mecanismos de buscas) como Google Ads e Google Analytics. Principais competências: organização, trabalho em equipe, foco em aprender e espírito empreendedor.<br/>
+Disponibilizo minha rede para contato, para esclarecimento de dúvidas ou assuntos relacionados a trabalhos e projetos. Fique a vontade para enviar uma mensagem.</p>
 
 <p>💻 Web Developer | Front End;<p>
   
