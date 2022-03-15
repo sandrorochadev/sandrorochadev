@@ -8,7 +8,7 @@ Disponibilizo minha rede para contato, para esclarecimento de dúvidas ou assunt
   
 <p>🚀 Procuro obter experiência no mercado de trabalho dentro da área de tecnologia;</p>
 
-<p>💼 Portfólio: https://sandrorochadev.github.io/portfolio/
+<p>💼 Portfólio: https://sandrorochadev.me/
 
 
 <h3>Contato:</h3>
