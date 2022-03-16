@@ -14,7 +14,7 @@ Disponibilizo minha rede para contato, para esclarecimento de dúvidas ou assunt
 <h3>Contato:</h3>
   
   <a href="https://t.me/sandrorochadev" alt="telegram">
-  <img src="https://img.shields.io/badge/Telegram-1C1C1C?style=for-the-badge&logo=telegram&logoColor=0e76a8&link=https://wa.me/message/L4ML656IM56UH1">
+  <img src="https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=email&logoColor=0e76a8&link=https://wa.me/message/L4ML656IM56UH1">
   
   <a href="https://www.linkedin.com/in/sandrorochadev" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-ffffff?style=for-the-badge&logo=Linkedin&logoColor=0e76a8&link=https://www.linkedin.com/in/sandrorochadev"/></a>
