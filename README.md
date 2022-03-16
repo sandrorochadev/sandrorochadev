@@ -13,8 +13,8 @@ Disponibilizo minha rede para contato, para esclarecimento de dúvidas ou assunt
 
 <h3>Contato:</h3>
   
-  <a href="mailto:sandrorochadev@gmail.com" alt="gmail">
-  <img src="https://img.shields.io/badge/-Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=ea20278&link=mailto:sandrorochadev@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sandrorochadev@gmail.com" alt="gmail">
+  <img src="https://img.shields.io/badge/-Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=ea20278&link=https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sandrorochadev@gmail.com">
   
   <a href="https://www.linkedin.com/in/sandrorochadev" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-ffffff?style=for-the-badge&logo=Linkedin&logoColor=0e76a8&link=https://www.linkedin.com/in/sandrorochadev"/></a>
