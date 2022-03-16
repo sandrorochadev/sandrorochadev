@@ -13,7 +13,7 @@ Disponibilizo minha rede para contato, para esclarecimento de dúvidas ou assunt
 
 <h3>Contato:</h3>
   
-  <a href="https://t.me/sandrorochadev" alt="gmail">
+  <a href="mailto:sandrorochadev@gmail.com" alt="gmail">
   <img src="https://img.shields.io/badge/-Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=ea20278&link=mailto:sandrorochadev@gmail.com">
   
   <a href="https://www.linkedin.com/in/sandrorochadev" alt="Linkedin">
