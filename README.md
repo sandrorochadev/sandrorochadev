@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/-Email-ffffff?style=for-the-badge&logo=gmail&logoColor=ea20278&link=https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sandrorochadev@gmail.com">
  
 <a href="https://www.linkedin.com/in/sandrorochadev" alt="Linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/LinkedIn-4cc9f0?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
 <a href="https://sandrorochadev.me/" alt="Portfolio">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Portfolio-f72585?style=for-the-badge&logo=About.me&logoColor=white"/></a>
