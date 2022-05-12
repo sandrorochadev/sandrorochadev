@@ -10,8 +10,8 @@
 
 <div>
   <a href="https://github.com/sandrorochadev">
-  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=sandrorochadev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrorochadev&layout=compact&langs_count=7&theme=radical"/>
+  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=sandrorochadev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrorochadev&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 <h2>Habilidades</h2>
@@ -39,4 +39,5 @@
 <a href="https://www.linkedin.com/in/sandrorochadev" alt="Linkedin">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
-  
+<a href="https://www.linkedin.com/in/sandrorochadev" alt="Linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
