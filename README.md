@@ -1,6 +1,6 @@
 <h2>Hello, World !</h2>
 
-<p>Sou desenvolvedor web com experiência na criação de sites utilizando a stack HTML, CSS e Javascript, além de frameworks com o React. Tenho conhecimento sobre Ecmascript e Typescript, e além de novas tecnologias estudo bastante sobre experiência do usuário, acessibilidade e otimização para mecanismos de busca.</p>
+<p>Sou desenvolvedor web com experiência na criação de sites utilizando a stack HTML, CSS e Javascript, além de bibliotecas como o React. Tenho conhecimento sobre Ecmascript e Typescript, e além de novas tecnologias estudo bastante sobre experiência do usuário, acessibilidade e otimização para mecanismos de busca.</p>
 
 - 🎓 Estudante de Análise em Desenvolvimento de Sistemas 
 
