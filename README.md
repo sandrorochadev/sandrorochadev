@@ -31,7 +31,7 @@
   
 <h2>Contato</h2>
 
-<p>Disponibilizo minha rede de contato, para esclarecimento de dúvidas ou assuntos relacionados a projetos e colaborações. Fique à vontade e envie uma mensagem 🖖.</p>
+<p>Disponibilizo minha rede de contato, para esclarecimento de dúvidas ou assuntos relacionados a projetos e colaborações. Fique à vontade e envie uma mensagem.</p>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sandrorochadev@gmail.com" alt="Gmail">
 <img src="https://img.shields.io/badge/-Email-ffffff?style=for-the-badge&logo=gmail&logoColor=ea20278&link=https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sandrorochadev@gmail.com">
