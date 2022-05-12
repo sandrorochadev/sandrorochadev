@@ -14,12 +14,12 @@
   <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrorochadev&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<h3>Contato</h3>
+<h2>Contato</h2>
 
 <p>Disponibilizo minha rede de contato, para esclarecimento de dúvidas ou assuntos relacionados a projetos e colaborações. Fique à vontade e envie uma mensagem.</p>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sandrorochadev@gmail.com" alt="gmail">
-<img src="https://img.shields.io/badge/-Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=ea20278&link=https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sandrorochadev@gmail.com">
+<img src="https://img.shields.io/badge/-Email-ffffff?style=for-the-badge&logo=gmail&logoColor=ea20278&link=https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sandrorochadev@gmail.com">
  
 <a href="https://www.linkedin.com/in/sandrorochadev" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Linkedin-ffffff?style=for-the-badge&logo=Linkedin&logoColor=0e76a8&link=https://www.linkedin.com/in/sandrorochadev"/></a>
