@@ -40,4 +40,4 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
 <a href="https://sandrorochadev.me/" alt="Portfolio">
-<img src="https://img.shields.io/badge/Portfolio-212529?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Portfolio-000814?style=for-the-badge&logo=About.me&logoColor=white"/></a>
