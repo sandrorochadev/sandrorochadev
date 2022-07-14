@@ -1,3 +1,5 @@
+![wallpaper Github](https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif)
+
 <h2>Hello, World 🖖</h2>
 
 <p>Sou desenvolvedor web com experiência na criação de sites utilizando a stack HTML, CSS e Javascript, além de bibliotecas como o React. Tenho conhecimento sobre Ecmascript e Typescript, e além de novas tecnologias estudo bastante sobre experiência do usuário, acessibilidade e otimização para mecanismos de busca.</p>
