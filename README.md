@@ -1,4 +1,4 @@
-<img src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122125/22b22287602523.5dbd29081561d.gif"  width="700" height="500" />
+<img src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122125/22b22287602523.5dbd29081561d.gif"  width="1000" height="500" />
 
 <h2> 👨‍💻 console.log('Hello, World');</h2>
 
