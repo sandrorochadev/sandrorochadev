@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/83/13/f6/8313f67d2546e50652d4e31f74a1a789.png" width="1000" height="500" />
 
-<h2> 👨‍💻 console.log('Hello, World');</h2>
+<h2 style="text-align:center;">Sobre mim</h2>
 
 <p>Sou desenvolvedor web com experiência na criação de sites utilizando a stack HTML, CSS e Javascript, além de bibliotecas como o React. Tenho conhecimento sobre Ecmascript e Typescript, e além de novas tecnologias estudo bastante sobre experiência do usuário, acessibilidade e otimização para mecanismos de busca.</p>
 
