@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/83/13/f6/8313f67d2546e50652d4e31f74a1a789.png" width="1000" height="500" />
+
 
 <h2 style="text-align:center;">Sobre mim</h2>
 
