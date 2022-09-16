@@ -1,4 +1,4 @@
-
+<img src="https://raw.githubusercontent.com/sandrorochadev/sandrorochadev/master/images/github-cover.png" width="100%">
 
 <h2 style="text-align:center;">Sobre mim</h2>
 
