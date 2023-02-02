@@ -42,5 +42,5 @@
 <a href="https://www.linkedin.com/in/sandrorochadev" alt="Linkedin">
 <img src="https://img.shields.io/badge/LinkedIn-4cc9f0?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
-<a href="https://portfolio-bay-seven-79.vercel.app/" alt="Portfolio">
+<a href="https://portfolio-eta-peach-59.vercel.app/" alt="Portfolio">
 <img src="https://img.shields.io/badge/Portfolio-f72585?style=for-the-badge&logo=About.me&logoColor=white"/></a>
