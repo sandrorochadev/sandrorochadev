@@ -7,6 +7,7 @@
 
 - 🎓 Graduação em Análise e Desenvolvimento de Sistemas
 - 💻 Cursando MBA em Projetos de Redes e Computação em Nuvem
+- 🚀 Estudando Formação Devops na Alura
 - 💼 Realizando transição de carreira 
 
 <div>
