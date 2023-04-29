@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/sandrorochadev/sandrorochadev/master/images/github-cover.png" width="100%">
 
 <h2 style="text-align:center;">Sobre mim</h2>
 
@@ -7,14 +6,9 @@
 
 - 🎓 Graduação em Análise e Desenvolvimento de Sistemas
 - 💻 Cursando MBA em Projetos de Redes e Computação em Nuvem
-- 🚀 Estudando sobre Azure através da Formação em Devops da Alura
-- 💼 Realizando transição de carreira 
-
-<div>
-  <a href="https://github.com/sandrorochadev">
-  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=sandrorochadev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrorochadev&layout=compact&langs_count=7&theme=radical"/>
-</div>
+- 🚀 Estudando Formação em Devops da Alura
+- 🗽 Studying English at Alura Língua
+- 💼 Realizando transição de carreira
 
 <h2>Habilidades</h2>
   
@@ -22,14 +16,12 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- 
-  
+  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
-  
+
 <h2>Contato</h2>
 
 <p>Disponibilizo minha rede de contato, para esclarecimento de dúvidas ou assuntos relacionados a projetos e colaborações. Fique à vontade e envie uma mensagem.</p>
@@ -41,4 +33,9 @@
 <img src="https://img.shields.io/badge/LinkedIn-4cc9f0?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
 <a href="https://portfolio-eta-peach-59.vercel.app/" alt="Portfolio">
-<img src="https://img.shields.io/badge/Portfolio-f72585?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Portfolio-e40037?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+
+<div>
+  <a href="https://github.com/sandrorochadev"/>
+  <img height="400em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrorochadev&layout=compact&langs_count=7&theme=radical"/>
+</div>
