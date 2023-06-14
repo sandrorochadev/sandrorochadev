@@ -6,8 +6,7 @@
 
 - 🎓 Graduação em Análise e Desenvolvimento de Sistemas
 - 💻 Cursando MBA em Projetos de Redes e Computação em Nuvem
-- 🚀 Estudando Formação em Devops e Data Science da Alura
-- 🗽 Studying English at Alura Língua
+- 🚀 Estudando Formação em Devops da Alura
 - 💼 Realizando transição de carreira
 
 <h2>Habilidades</h2>
