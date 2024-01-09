@@ -1,13 +1,12 @@
 
 <h2 style="text-align:center;">Sobre mim</h2>
 
-<p>Sou desenvolvedor web e possuo experiência na criação de sites utilizando a stack HTML, CSS e Javascript, com conhecimento em bibliotecas como o React. Além de novas tecnologias estudo bastante sobre DevOps e Computação em Nuvem.
+<p>Web Developer com experiência na criação de sites, com conhecimento em bibliotecas como o React. Além de novas tecnologias estudo bastante sobre DevOps e Computação em Nuvem.
 </p>
 
 - 🎓 Graduação em Análise e Desenvolvimento de Sistemas
 - 💻 Cursando MBA em Projetos de Redes e Computação em Nuvem
 - 🚀 Estudando Formação em Devops da Alura
-- 💼 Realizando transição de carreira
 
 <h2>Habilidades</h2>
   
