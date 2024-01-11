@@ -1,39 +1,12 @@
+## Alessandro Rocha
 
-<h2 style="text-align:center;">Sobre mim</h2>
+Full Stack Developer com experiência na criação de sites utilizando as skills em: HTML, CSS, Javascript, React, Typescript, Tailwind e Node. Graduado em Análise e Desenvolvimento de Sistemas, e cursando MBA em Projetos de Redes e Computação em Nuvem. Disponibilizo minha rede de contato, para esclarecimento de dúvidas ou assuntos relacionados a projetos e colaborações.
 
-<p>Web Developer com experiência na criação de sites, com conhecimento em bibliotecas como o React. Além de novas tecnologias estudo bastante sobre DevOps e Computação em Nuvem.
-</p>
-
-- 🎓 Graduação em Análise e Desenvolvimento de Sistemas
-- 💻 Cursando MBA em Projetos de Redes e Computação em Nuvem
-- 🚀 Estudando Formação em Devops da Alura
-
-<h2>Habilidades</h2>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-</div>
-
-<h2>Contato</h2>
-
-<p>Disponibilizo minha rede de contato, para esclarecimento de dúvidas ou assuntos relacionados a projetos e colaborações. Fique à vontade e envie uma mensagem.</p>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sandrorochadev@gmail.com" alt="Gmail">
-<img src="https://img.shields.io/badge/-Email-ffffff?style=for-the-badge&logo=gmail&logoColor=ea20278&link=https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sandrorochadev@gmail.com">
- 
-<a href="https://www.linkedin.com/in/sandrorochadev" alt="Linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-4cc9f0?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  
-<a href="https://portfolio-eta-peach-59.vercel.app/" alt="Portfolio">
-<img src="https://img.shields.io/badge/Portfolio-e40037?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+https://www.sandrorochadev.tech/
 
 <div>
-  <a href="https://github.com/sandrorochadev"/>
-  <img height="400em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrorochadev&layout=compact&langs_count=7&theme=radical"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sandrorochadev@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/-Email-000000?style=flat-square&labelColor=000000&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sandrorochadev/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandrorochadev&show_icons=true&theme=shadow_red)
