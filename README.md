@@ -1,6 +1,6 @@
 ## Alessandro Rocha
 
-Full Stack Developer com experiência na criação de sites utilizando as skills em: HTML, CSS, Javascript, React, Typescript, Tailwind e Node. Graduado em Análise e Desenvolvimento de Sistemas, e cursando MBA em Projetos de Redes e Computação em Nuvem. Disponibilizo minha rede de contato, para esclarecimento de dúvidas ou assuntos relacionados a projetos e colaborações.
+Full Stack Developer com experiência na criação de sites utilizando as skills em: HTML, CSS, Javascript, React, NodeJS, Typescript e Tailwind. Graduado em Análise e Desenvolvimento de Sistemas, e cursando MBA em Projetos de Redes e Computação em Nuvem. Disponibilizo minha rede de contato, para esclarecimento de dúvidas ou assuntos relacionados a projetos e colaborações.
 
 https://www.sandrorochadev.tech/
 
